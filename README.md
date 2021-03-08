@@ -6,7 +6,7 @@ I know you wanna know about me, because...you are in here!
 
 So...Let's see my Information 😉 
 
-
+## 👋About Dana
 - birthday : 1997.03.15
 - Interests :
 :hatching_chick:Startup / :mag_right:Marketing / :balloon:Design with Illustrator /
@@ -16,6 +16,13 @@ So...Let's see my Information 😉
 ---
 ## 👯Career
 - work in Thedocent.Inc. : Contents Marketing / GA / QA (2020.02 ~ 2020.09)
+
+## ✏️ Project
+- MBTI TEST
+- EDA
+- KAGGLE
+(I'll write it down more later for sure)
+
 
 ## 🎓School
 - 이화여자대학교병설미디어고등학교 졸업 (2013. 03 ~ 2016. 02)
