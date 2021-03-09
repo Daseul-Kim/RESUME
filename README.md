@@ -19,6 +19,11 @@ So...Let's see my Information 😉
 
 ## ✏️ Project
 - MBTI TEST
+> period : 2021.01
+> contents : MBIT TEST for virtualtour
+> skills : slack, Google Analytics
+> contribution : Make up the contents, Drawing Illustration, PR
+> learning point : The method to analyze user reactions and behavior after distribution by each media
 - EDA
 - KAGGLE
 (I'll write it down more later for sure)
