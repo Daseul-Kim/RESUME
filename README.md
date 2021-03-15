@@ -20,9 +20,13 @@ So...Let's see my Information 😉
 ## ✏️ Project
 - MBTI TEST
 > period : 2021.01
+
 > contents : MBIT TEST for virtualtour
+
 > skills : slack, Google Analytics
+
 > contribution : Make up the contents, Drawing Illustration, PR
+
 > learning point : The method to analyze user reactions and behavior after distribution by each media
 - EDA
 - KAGGLE
@@ -41,10 +45,27 @@ So...Let's see my Information 😉
 - etc ( illrustrator, html/css, design idea)
 
 ---
+## 🔧Tools (click underline!)
+
+- Illustrator CC
+- Photoshop CC
+- Premiere CC
+- Google Analytics
+- Facebook Ads
+- git/github
+
+---
 ## 🌱Certification
 - ADsP(2020.12)
 - GAIQ(2020.12)
 - OPIC IH(2020.02)
 - 유통관리사 2급(2020.09)
-- GTQ 1급
+- GTQ 1급(2015)
+- 전산회계 1급(2015)
 
+---
+## ⌨️ Stacks
+
+- Python for Data Science
+- HTML / CSS (a bit)
+- SQL
