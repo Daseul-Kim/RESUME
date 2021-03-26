@@ -48,8 +48,8 @@ So...Let's see my Information 😉
 ## 🔧Tools 
 
 - [Illustrator CC](https://www.notion.so/65407a4e3314406c849976cfe276d646?v=c88d697197134fa3ace5880c5af2ba4e)
-- Photoshop CC
-- Premiere CC
+- [Photoshop CC](https://www.notion.so/f9e336de0222401a8c255a58177293b5?v=3e6a97f52a874f719fbeaba0684d6e00)
+- [Premiere CC](https://www.notion.so/ebb8cf54f3aa41c5939332c08288ee58?v=2e1c63f608b1400284a609a8b8aa2b82)
 - Google Analytics
 - Facebook Ads
 - git/github
