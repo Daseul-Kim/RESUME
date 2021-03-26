@@ -2,7 +2,7 @@
 
 Hi I'm Daseul Kim (Dana in eng)
 
-I know you wanna know about me, because...you are in here!
+I you wanna know about me, because...you are in here!
 
 So...Let's see my Information 😉 
 
@@ -45,9 +45,9 @@ So...Let's see my Information 😉
 - etc ( illrustrator, html/css, design idea)
 
 ---
-## 🔧Tools (click underline!)
+## 🔧Tools 
 
-- Illustrator CC
+- [Illustrator CC](https://www.notion.so/65407a4e3314406c849976cfe276d646?v=c88d697197134fa3ace5880c5af2ba4e)
 - Photoshop CC
 - Premiere CC
 - Google Analytics
@@ -60,6 +60,7 @@ So...Let's see my Information 😉
 - GAIQ(2020.12)
 - OPIC IH(2020.02)
 - 유통관리사 2급(2020.09)
+- GTQ-i 1급(2021)
 - GTQ 1급(2015)
 - 전산회계 1급(2015)
 
