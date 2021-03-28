@@ -31,7 +31,7 @@ So...Let's see my Information 😉
 - EDA
 > period : 2021.01
 
-> contents : Data Analysis for moview data
+> contents : Data Analysis for movie data
 
 > skills : Python, git
 
