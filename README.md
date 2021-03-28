@@ -1,6 +1,6 @@
 # RESUME
 
-Hi I'm Daseul Kim (Dana in eng)
+Hi I'm Daseul Kim (Dana in english)
 
 I can tell you wanna know about me, because...you are in here!
 
@@ -29,6 +29,15 @@ So...Let's see my Information 😉
 
 > learning point : The method to analyze user reactions and behavior after distribution by each media
 - EDA
+> period : 2021.01
+
+> contents : Data Analysis for moview data
+
+> skills : Python, git
+
+> contribution : Extract data from naver movie site by using selenium
+
+> learning point : how to extract and approach data in internet 
 - KAGGLE
 (I'll write it down more later for sure)
 
