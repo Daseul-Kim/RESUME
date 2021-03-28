@@ -13,6 +13,7 @@ So...Let's see my Information 😉
 :iphone:Technology / :file_folder:Data Analytics / :ledger:Studying English
 - Motto : 지금 최선을 다하면 언젠가 도착하겠지& Make it!
 - Contact : Email - dana_kim@kakao.com
+- Portfolio : [Dana's portfolio](https://bit.ly/3dl9Cmg) 
 ---
 ## 👯Career
 - work in Thedocent.Inc. : Contents Marketing / GA / QA (2020.02 ~ 2020.09)
