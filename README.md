@@ -60,17 +60,20 @@ So...Let's see my Information 😉
 - [Illustrator CC](https://www.notion.so/65407a4e3314406c849976cfe276d646?v=c88d697197134fa3ace5880c5af2ba4e)
 - [Photoshop CC](https://www.notion.so/f9e336de0222401a8c255a58177293b5?v=3e6a97f52a874f719fbeaba0684d6e00)
 - [Premiere CC](https://www.notion.so/ebb8cf54f3aa41c5939332c08288ee58?v=2e1c63f608b1400284a609a8b8aa2b82)
+- Google Ads
 - Google Analytics
-- Facebook Ads
+- Facebook 광고관리자
 - git/github
 
 ---
 ## 🌱Certification
 - ADsP(2020.12)
+- SQLD(2021.04)
 - GAIQ(2020.12)
+- Google Ads Display Certificate(2021.03)
 - OPIC IH(2020.02)
 - 유통관리사 2급(2020.09)
-- GTQ-i 1급(2021)
+- GTQ-i 1급(2021.03)
 - GTQ 1급(2015)
 - 전산회계 1급(2015)
 
