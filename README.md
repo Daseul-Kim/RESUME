@@ -16,7 +16,9 @@ So...Let's see my Information 😉
 - Portfolio : [Dana's portfolio](https://bit.ly/3dl9Cmg) 
 ---
 ## 👯Career
-- work in Thedocent.Inc. : Contents Marketing / GA / QA (2020.02 ~ 2020.09)
+- Work in Thedocent.Inc. : Contents Marketing / GA / QA (2020.02 ~ 2020.09)
+- Work in FASTCAMPUS.Inc. : Manager of digital marketing education (2021.06 ~ 2021.09)
+- Work in Mediafirend.Inc. : CMO, Product manager, UX/UI design (2020.10 ~ 
 
 ## ✏️ Project
 - MBTI TEST
