@@ -2,7 +2,7 @@
 
 Hi I'm Daseul Kim (Dana in english)
 
-I can tell you wanna know about me, because...you are seeing this!
+I can tell you wanna know about me, because...you are here to read this!
 
 So...Let's see my Information 😉 
 
