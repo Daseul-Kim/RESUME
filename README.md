@@ -69,6 +69,8 @@ So...Let's see my Information 😉
 
 ---
 ## 🌱Certification
+- 빅데이터분석기사(2021.12)
+- 정보처리기사(2021.11)
 - ADsP(2020.12)
 - SQLD(2021.04)
 - GAIQ(2020.12)
